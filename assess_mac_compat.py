@@ -492,7 +492,6 @@ RULES = [
     (r"^synergy\b", "NATIVE", "Synergy – Mac version available"),
     (r"^tightvnc", "ALTERNATIVE", "Use built-in Screen Sharing or RealVNC Viewer on Mac"),
     (r"^trader workstation", "NATIVE", "Interactive Brokers TWS – Mac version available"),
-    (r"^tunepat", "NATIVE", "TunePat – Mac version available"),
     (r"^veeam agent", "ALTERNATIVE", "Use Time Machine or Carbon Copy Cloner on Mac"),
     (r"^vmware horizon client", "NATIVE", "VMware Horizon Client – Mac version available"),
     (r"^vmware workstation", "ALTERNATIVE", "Use VMware Fusion on Mac (Apple Silicon supported)"),
