@@ -1,0 +1,32 @@
+# Output directory — contains personal data, never commit
+Documents/mac-migration/
+mac-migration/
+
+# Installed program lists — contain your personal software inventory
+installed_programs.csv
+installed_programs.txt
+
+# Online lookup cache and results — may contain app names tied to your identity
+online_lookup_cache.json
+online_lookup_results.csv
+
+# Homebrew index cache — large, auto-regenerated on first run
+brew_cache.json
+
+# Generated reports and install script — derived files, regenerate locally
+mac_migration_report.md
+online_lookup_report.md
+brew_install.sh
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
